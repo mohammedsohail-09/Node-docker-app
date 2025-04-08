@@ -108,17 +108,6 @@ pipeline {
 
 ![Screenshot 2025-04-08 221957](https://github.com/user-attachments/assets/a74e8f01-862d-45d6-9388-8f29be4a698f)
 
-
-
-
-
-
-
-
-
-
-
-
 👨‍💻 Author
 Mohammed Sohail
 Connect with me on LinkedIn
