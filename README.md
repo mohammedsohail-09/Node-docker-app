@@ -110,4 +110,3 @@ pipeline {
 
 👨‍💻 Author
 Mohammed Sohail
-Connect with me on LinkedIn
