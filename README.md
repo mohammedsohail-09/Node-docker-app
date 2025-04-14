@@ -42,10 +42,6 @@ You should see: "Hello from Node!"
 
 docker build -t my-node-app .
 
-![Screenshot 2025-04-08 234132](https://github.com/user-attachments/assets/95e8f7d5-0824-46f1-b2db-eec2f0289de0)
-
-![Screenshot 2025-04-08 234929](https://github.com/user-attachments/assets/9c0211c6-a176-42ca-a437-56e48375738e)
-
 🚀 Run Docker Container
 
 docker run -p 3000:3000 my-node-app
